@@ -2,3 +2,5 @@
 
 ## Technical TLDR
 Use .svg or .ai if it is possible.
+
+Project is availabie via https://www.overleaf.com/read/htpcdfpwtcch
